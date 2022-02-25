@@ -123,6 +123,9 @@ header{
 
 
 @media (min-width:768px) {
+    .container{
+        min-width: 90%;
+    }
     #card-component{
         display: flex;
         align-items: center;
